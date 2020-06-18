@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+    font-size: 250px;
+}
+
+
+#letter-first {
+    /* color: red; */
+    background-color: red;
+    /* border: 10px solid blue; */
+    border-radius: 20px;
+}
+
+#letter-second {
+
+    background-color: white;
+    /* border: 10px solid blue; */
+    border-radius: 20px;
+}
+#letter-third {
+
+    background-color: green;
+    /* border: 10px solid blue; */
+    border-radius: 20px;
+}
+#letter-fourth {
+
+    background-color: red;
+    /* border: 10px solid blue; */
+    border-radius: 20px;
+}
+#letter-fifth {
+
+    background-color: white;
+    /* border: 10px solid blue; */
+    border-radius: 20px;
+}
+#letter-sixth {
+
+    background-color: green;
+    /* border: 10px solid blue; */
+    border-radius: 20px;
+}
+
+@media screen and (min-width: 992px) {
+    #letter-first {
+        /* color: red; */
+        background-color: green;
+        /* border: 10px solid blue; */
+        border-radius: 20px;
+    }
+
+    #letter-second {
+
+        background-color: white;
+        /* border: 10px solid blue; */
+        border-radius: 20px;
+    }
+    #letter-third {
+
+        background-color: red;
+        /* border: 10px solid blue; */
+        border-radius: 20px;
+    }
+    #letter-fourth {
+
+        background-color: green;
+        /* border: 10px solid blue; */
+        border-radius: 20px;
+    }
+    #letter-fifth {
+
+        background-color: white;
+        /* border: 10px solid blue; */
+        border-radius: 20px;
+    }
+    #letter-sixth {
+
+        background-color: red;
+        /* border: 10px solid blue; */
+        border-radius: 20px;
+    }
+
+}
